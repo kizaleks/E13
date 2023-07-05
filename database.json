@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "E13"
+    },
+    {
+      "title": "Ответ 1",
+      "body": "Текст 1 ответа!",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Ответ 2",
+      "body": "Текст 2 ответа",
+      "userId": 324,
+      "id": 3
+    },
+    {
+      "title": "Ответ  3",
+      "body": "Текст 3 ответа",
+      "userId": 34324231,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
